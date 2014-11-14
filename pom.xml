@@ -6,10 +6,10 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.sendgird</groupId>
-    <artifactId>smtpapi</artifactId>
+    <artifactId>smtpapi-java</artifactId>
     <packaging>jar</packaging>
     <version>0.2.0-SNAPSHOT</version>
-    <name>smtpapi</name>
+    <name>smtpapi-java</name>
 
     <distributionManagement>
         <repository>
